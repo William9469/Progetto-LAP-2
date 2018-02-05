@@ -1,0 +1,14 @@
+export const LOG_IN = 'log_in';
+export const LOG_OUT = 'log_out';
+export const LOADING = 'loading';
+export const OPEN_MAP_MODAL = 'open_map_modal';
+export const CLOSE_MAP_MODAL = 'close_map_modal';
+export const ADD_ITEM = 'add_item';
+export const REMOVE_ITEM = 'remove_item';
+export const MODIFY_ITEM = 'modify_item';
+export const UPDATE_MY_ITEMS = 'update_my_items';
+export const UPDATE_CHATS = 'update_chats';
+export const UPDATE_MY_CHATS = 'update_my_chats';
+export const LISTENED = 'listened';
+export const UPDATE_CHATS_AUTH = 'update_chats_auth';
+export const UPDATE_CHATS_MODIFIED = 'update_chats_modifed';

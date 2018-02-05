@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "602790855773",
+    "firebase_url": "https://login-31611.firebaseio.com",
+    "project_id": "login-31611",
+    "storage_bucket": "login-31611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602790855773:android:364a0f017245de36",
+        "android_client_info": {
+          "package_name": "com.minimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602790855773-hp65sv1d4kmtcj8rj02qmsenhc17pqnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp68omZYuEVTjbVEeZ2D2fmCCyIjE5bYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
